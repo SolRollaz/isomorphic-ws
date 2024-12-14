@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/heineiuo/isomorphic-ws#readme",
   "peerDependencies": {
-    "ws": "*"
+    "ws": "^8.18.0"
   },
   "files": [
     "index.d.ts",
